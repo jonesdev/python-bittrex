@@ -1,1 +1,1 @@
-requests
+sudo pip install requests 
